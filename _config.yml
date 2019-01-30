@@ -6,7 +6,7 @@ logo_url:           http://ozansener.net/the-plain/z.jpg # Get it from GitHub AP
 
 # Site Settings
 url:                http://ozansener.net/ # main url
-baseurl:            /jekyll-now
+baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Tokyo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
