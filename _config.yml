@@ -5,7 +5,7 @@ author_name:        "Zehra Hayirci" # change this to your name
 logo_url:           http://ozansener.net/the-plain/z.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                http://ozansener.net/ # main url
+url:                http://ozansener.net # main url
 baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Tokyo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
